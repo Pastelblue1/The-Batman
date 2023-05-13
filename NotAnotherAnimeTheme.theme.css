@@ -21,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://images.alphacoders.com/121/thumb-1920-1213547.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(0, 67, 112);
 
   /*
     Main Theme Transparency
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://64.media.tumblr.com/5a4c8c76645b21809b7bfb45a53360d0/98abab7533633a41-ec/s540x810/a5580d92f5007c1a9d901425ece50fc4f1746da0.jpg);
 
   /*
     Change your friends icon image position
@@ -46,7 +46,7 @@
   /*
     Change your friends icon image zoom
   */
-  --home-icon-image-zoom: 100%;
+  --home-icon-image-zoom: 150%;
 
   /*
     Server Listing Width
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
